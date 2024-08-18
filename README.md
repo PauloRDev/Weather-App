@@ -1,6 +1,5 @@
-**Weather App**
+# Weather App
 
-
-Marcação feita no HTML, estilizado usando CSS e BootStrap, Comportamentos com JavaScript Puro e Manipulação com DOM.
+Markup made in HTML, styled using CSS and BootStrap, Behaviors with Pure JavaScript and Manipulation with DOM.
 
 Link: https://my-def-climatempo.netlify.app/
